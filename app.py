@@ -1,4 +1,4 @@
-"""Gradio test GUI for session-only OCR settings and corpus processing."""
+"""Gradio test GUI for session-only OCR settings and corpus processing pipeline."""
 
 import os
 from pathlib import Path
